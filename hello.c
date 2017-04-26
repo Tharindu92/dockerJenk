@@ -6,7 +6,7 @@
 #endif
 
 #ifndef DOCKER_GREETING
-	#define DOCKER_GREETING "Hello from Docker! 321"
+	#define DOCKER_GREETING "Hello from Docker! 322"
 #endif
 
 const char message[] =
